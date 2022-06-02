@@ -1,6 +1,7 @@
 # Recriando o Jogo do Pedra, Papel e Tesoura com VueJS
+
 ## Regras
-Rock-paper-scissors (rock).png	Rock-paper-scissors (paper).png	Rock-paper-scissors (scissors).png
+
 Cada um dos três sinais básicos (da esquerda para a direita: pedra, papel e tesoura).
 No Janken-pon, os jogadores devem simultaneamente esticar a mão, na qual cada um formou um símbolo (que significa pedra, papel ou tesoura). Então, os jogadores comparam os símbolos para decidir quem ganhou, da seguinte forma:
 
